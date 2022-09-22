@@ -6,6 +6,8 @@ h1{
   text-align: center;
   color: aliceblue;
   padding: 5px;
+  font-size: 30px;
+  text-shadow: 2px 2px 1px rgb(255, 0, 191);
 }
 
 body{
@@ -60,7 +62,7 @@ img{
 #by{
   top: 80%;
   left: 20%;
-  background-color: brown;
+  background-color: rgba(165, 42, 42, 0);
   display: block;
   width: 100px;
   position: absolute;
