@@ -1,7 +1,7 @@
 flag = 1
 
 function f1() {
-    alert("YEY VAMOS, TE AMO MUUAH ><")
+    alert("YEY VAMOS, TE AMO")
 }
 
 function f() {
